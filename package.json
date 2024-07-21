@@ -1,0 +1,30 @@
+{
+  "name": "node-file-structure",
+  "version": "1.0.0",
+  "description": "node-file-structure",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Y-Ashiq/myNode-FileStructure.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "ashiq",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Y-Ashiq/myNode-FileStructure/issues"
+  },
+  "homepage": "https://github.com/Y-Ashiq/myNode-FileStructure#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "express": "^4.19.2",
+    "mongodb": "^6.8.0",
+    "mongoose": "^8.5.1",
+    "validator": "^13.12.0"
+  }
+}
